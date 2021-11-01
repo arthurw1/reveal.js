@@ -13,11 +13,11 @@ section.has-light-background, section.has-light-background h1, section.has-light
  *********************************************/
 :root {
   --r-background-color: #191919;
-  --r-main-font: Source Sans Pro, Helvetica, sans-serif;
-  --r-main-font-size: 42px;
+  --r-main-font: Roboto, Helvetica, sans-serif;
+  --r-main-font-size: 32px;
   --r-main-color: #fff;
   --r-block-margin: 20px;
-  --r-heading-margin: 0 0 20px 0;
+  --r-heading-margin: 0 0 26px 0;
   --r-heading-font: Source Sans Pro, Helvetica, sans-serif;
   --r-heading-color: #fff;
   --r-heading-line-height: 1.2;
@@ -26,9 +26,9 @@ section.has-light-background, section.has-light-background h1, section.has-light
   --r-heading-text-shadow: none;
   --r-heading-font-weight: 600;
   --r-heading1-text-shadow: none;
-  --r-heading1-size: 2.5em;
-  --r-heading2-size: 1.6em;
-  --r-heading3-size: 1.3em;
+  --r-heading1-size: 3.375em;
+  --r-heading2-size: 2.25em;
+  --r-heading3-size: 1.5em;
   --r-heading4-size: 1em;
   --r-code-font: monospace;
   --r-link-color: #42affa;
